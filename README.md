@@ -1,1 +1,1 @@
-# intelli-ai
+# Intelli-AI
