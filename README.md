@@ -13,4 +13,5 @@ Once signed in, you are brought to the main page. On the left, you can see a scr
 
 Here are two examples of the AI answering a question the user asks. As we can see, the chat series is saved to the history list on the left. The AI chatbot successfully creates a short story as requested, and can correctly analyze what the image contains. This is not all the chatbot is limited to answering. It can answer all types of questions with remarkable accuracy!
 <img width="1512" alt="Screenshot 2024-08-22 at 9 40 15 PM" src="https://github.com/user-attachments/assets/a2335754-42d6-4baf-b081-98686ccb359e">
+
 <img width="720" alt="Screenshot 2024-08-22 at 9 41 48 PM" src="https://github.com/user-attachments/assets/d40fdd53-2206-4c62-ad01-1bef62e4175e">
