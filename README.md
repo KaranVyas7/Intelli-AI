@@ -1,5 +1,7 @@
 -Created a MERN fullstack AI chatbot web application, utilizing the Google Gemini API
+
 -Utilized MongoDB to store and manage data, ensuring chat retention for users in future sessions
+
 -Grants the user the ability to answer any question they ask, analyze various images, or even provide sample code snippets based on the requests of the users, all while delivering a visually appealing and easily navigable interface
 
 Home Page with moving effects and graphics, as well as a start button to access the AI chatbot: 
